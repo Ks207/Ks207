@@ -6,7 +6,6 @@
   <li>Express</li>
   <li>Postgresql</li>
   <li>Next.js</li>
-<hr>
 </ul>
 
 **Software Developer** at **Geovictoria** \
